@@ -5,7 +5,6 @@ import java.util.concurrent.atomic.AtomicInteger;
 import org.junit.Test;
 
 import us.vergara.queues.api.GenericQueue;
-import us.vergara.queues.impl.SynchronizedCostOnEnQueueQueueLoadTest.TestRunnable;
 
 public class SynchronizedDirectAccessQueueLoadTest {
 
